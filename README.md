@@ -31,6 +31,15 @@ Here's a recap of your accomplishments:
 - You merged a pull request.
 - You made your first contribution! :tada:
 
+### Repository files
+
+This completed course repository keeps the final learner-facing files in a few predictable places:
+
+- `PROFILE.md` contains the sample profile text created during the lesson.
+- `.github/steps/` stores the Markdown content that each course workflow publishes into the README.
+- `.github/workflows/` contains the automation that advances the course after each learner action.
+- `images/` stores the screenshots referenced by the step-by-step instructions.
+
 ### What's next?
 
 If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
@@ -57,8 +66,8 @@ Check out these resources to learn more or get involved:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) - [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+(c) 2024 GitHub - [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) - [MIT License](https://gh.io/mit)
 
 </footer>
